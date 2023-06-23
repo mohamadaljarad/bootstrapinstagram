@@ -1,0 +1,15 @@
+::placeholder {
+   text-align: center;
+   color: gray;
+   background-image: url(/assets/arasimgesi.webp); 
+   background-size: 10%;
+   background-repeat: no-repeat;
+   
+
+}
+.logo{
+    margin-right: 192px;
+}
+ul.list-group.list-group-horizontal.mt-1 {
+    border: none;
+  }
